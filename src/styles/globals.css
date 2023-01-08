@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    background: #101010;
+    padding: 0;
+    margin: 0;
+    scrollbar-width: none;  /* Firefox */   
+    -ms-overflow-style: none;
+}
+body::-webkit-scrollbar {
+    display: none;
+  }
+a {
+    color: #9684f8;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #c9bfff;
+    transition: 200ms ease-out color;
+    text-decoration: none;
+}
+
+p {
+    color: #888;
+}
+
+* {
+    box-sizing: border-box;
+}
+h2 {
+    color: #9684f8;
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+  }
+  h1 {
+    color: #c9bfff;
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+  }
