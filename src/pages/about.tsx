@@ -39,8 +39,8 @@ const About: NextPage = () => {
                     </ul>
                     <h2>Communities</h2>
                     <ul>
-                        <li>AskNetsec - 2021 - Owner and Head-Moderator. Organize and administer events with 170,000+ members. Lead a team of six security professionals in the moderation and organization of events.</li>
-                        <li>r/Gaming - 2021 - Moderate and contribute to maintaining a community of 35 million users.</li>
+                        <li><b>AskNetsec</b> - 2021 - Owner and Head-Moderator. Organize and administer events with 170,000+ members. Lead a team of six security professionals in the moderation and organization of events.</li>
+                        <li><b>r/Gaming</b> - 2021 - Moderate and contribute to maintaining a community of 35 million users.</li>
                     </ul>
 
 
