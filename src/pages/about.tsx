@@ -23,7 +23,7 @@ const About: NextPage = () => {
                         <p data-tip data-for="age" className="inline underline">{Math.floor(age)}</p>
                         <ReactTooltip id="age" effect="solid">{age.toString().substring(0, 12)}</ReactTooltip>
                         &nbsp;year-old aspiring Security Engineer. 
-                        I am a freshman at George Mason University pursuing a major in Cyber Security Engineering. I currently spend my free time participating in CTF events, studying for class, reading fiction (I love Fantasy & Sci-Fi) and skateboarding.
+                        I am a freshman at George Mason University pursuing a major in Cyber Security Engineering with a minor in Chinese. I currently spend my free time participating in CTF events, studying for class, reading fiction (I love Fantasy & Sci-Fi) and skateboarding.
                     </p>
                     <br></br>
                 </div>
