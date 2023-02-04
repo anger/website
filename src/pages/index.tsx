@@ -120,7 +120,7 @@ const Home: NextPage = () => {
                             />
                             <Project
                                 name="AskNetSec"
-                                img_src="/projects/AskNetsec.png"
+                                img_src="/projects/asknetsec.png"
                                 type="Forum"
                                 time_period="Aug 2020 - Current"
                                 description="Owner and Head-Moderator. I organize and administer events with 174,000+ members. I lead a team of six security professionals in the moderation and organization of events."
