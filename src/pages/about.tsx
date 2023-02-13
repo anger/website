@@ -42,7 +42,11 @@ const About: NextPage = () => {
                         <li><b>AskNetsec</b> - 2021 - Owner and Head-Moderator. Organize and administer events with 170,000+ members. Lead a team of six security professionals in the moderation and organization of events.</li>
                         <li><b>r/Gaming</b> - 2021 - Moderate and contribute to maintaining a community of 35 million users.</li>
                     </ul>
-
+                     <h2>CTF Teams</h2>
+                    <ul>
+                        <li><b>Mason Competitive Cyber</b> - 2022</li>
+                        <li><b>/bin/cat</b> - 2023</li>
+                    </ul>
 
                     </p>
            
