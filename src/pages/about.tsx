@@ -45,7 +45,7 @@ const About: NextPage = () => {
                      <h2>CTF Teams</h2>
                     <ul>
                         <li><b>Mason Competitive Cyber</b> - 2022</li>
-                        <li><b>/bin/cat</b> - 2023</li>
+                        <li><b>/bin/cat(Task_Hashed)</b> - 2023</li>
                     </ul>
 
                     </p>
