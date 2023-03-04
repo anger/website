@@ -97,14 +97,14 @@ const Home: NextPage = () => {
                                 repo_link="https://github.com/anger/website"
                             />
                             <Project
-                                name="startpage"
-                                img_src="/projects/startt.png"
-                                type="Browser Startpage"
-                                time_period="Dec 2022"
-                                description="A simple starpage made with HTML and CSS."
+                                name="GitHub Dork Search"
+                                img_src="/projects/gds.png"
+                                type="Dork Searcher"
+                                time_period="Feb 2023"
+                                description="A tool that uses an inputted word list to generate GitHub dork links for a specified target."
                                 button_text="Website"
-                                button_link="https://anger.github.io/startpage/"
-                                repo_link="https://github.com/anger/startpage"
+                                button_link="https://gds.jaxd.dev/"
+                                repo_link="https://github.com/anger/gds"
                             />
                         </div>
                         <div className="block amstlg:grid grid-cols-2 gap-[30px]">
