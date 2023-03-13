@@ -151,6 +151,15 @@ svg:not(:root).svg-inline--fa {
   -webkit-transform-origin: bottom right;
   transform-origin: bottom right;
 }
+.example::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.example {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
 .fa-layers-bottom-left {
   bottom: 0;
   left: 0;
